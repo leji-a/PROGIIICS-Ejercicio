@@ -1,0 +1,10 @@
+C:\Users\UTN\Desktop\ejercicio\ejercicioChunchumaru\ejercicioChunchumaru\obj\Debug\ejercicioChunchumaru.csproj.AssemblyReference.cache
+C:\Users\UTN\Desktop\ejercicio\ejercicioChunchumaru\ejercicioChunchumaru\obj\Debug\ejercicioChunchumaru.Form1.resources
+C:\Users\UTN\Desktop\ejercicio\ejercicioChunchumaru\ejercicioChunchumaru\obj\Debug\ejercicioChunchumaru.Properties.Resources.resources
+C:\Users\UTN\Desktop\ejercicio\ejercicioChunchumaru\ejercicioChunchumaru\obj\Debug\ejercicioChunchumaru.csproj.GenerateResource.cache
+C:\Users\UTN\Desktop\ejercicio\ejercicioChunchumaru\ejercicioChunchumaru\obj\Debug\ejercicioChunchumaru.csproj.CoreCompileInputs.cache
+C:\Users\UTN\Desktop\ejercicio\ejercicioChunchumaru\ejercicioChunchumaru\bin\Debug\ejercicioChunchumaru.exe.config
+C:\Users\UTN\Desktop\ejercicio\ejercicioChunchumaru\ejercicioChunchumaru\bin\Debug\ejercicioChunchumaru.exe
+C:\Users\UTN\Desktop\ejercicio\ejercicioChunchumaru\ejercicioChunchumaru\bin\Debug\ejercicioChunchumaru.pdb
+C:\Users\UTN\Desktop\ejercicio\ejercicioChunchumaru\ejercicioChunchumaru\obj\Debug\ejercicioChunchumaru.exe
+C:\Users\UTN\Desktop\ejercicio\ejercicioChunchumaru\ejercicioChunchumaru\obj\Debug\ejercicioChunchumaru.pdb
