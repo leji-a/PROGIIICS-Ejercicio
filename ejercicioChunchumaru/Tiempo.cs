@@ -41,7 +41,7 @@ namespace ejercicioChunchumaru
         {
             set
             {
-                hora = ValidarMinutos(value);
+                minutos = ValidarMinutos(value);
             }
             get
             {
@@ -52,7 +52,7 @@ namespace ejercicioChunchumaru
         {
             set
             {
-                hora = ValidarSegundos(value);
+                segundos = ValidarSegundos(value);
             }
             get
             {
